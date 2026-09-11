@@ -1,0 +1,33 @@
+{
+  "date": "2000-01-01",
+  "version": "2026-09-11T16:51:10+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-11_test",
+      "slug": "gelato-sicario",
+      "pillar": "PAROLE DAL MONDO",
+      "hook": "In Cina il prezzo che ti pugnala ha un nome",
+      "caption": "TEST - non pubblicare",
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 103,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2000-01-01/gelato-sicario/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2000-01-01/gelato-sicario/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2000-01-01/gelato-sicario/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2000-01-01/gelato-sicario/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2000-01-01/gelato-sicario/05.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2000-01-01/gelato-sicario/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2000-01-01/gelato-sicario/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2000-01-01/gelato-sicario/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2000-01-01/gelato-sicario/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2000-01-01/gelato-sicario/05.jpg"
+      ],
+      "action": "create_carousel_post"
+    }
+  ]
+}
