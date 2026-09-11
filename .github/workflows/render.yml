@@ -34,5 +34,5 @@ jobs:
         run: |
           git config user.name succede-altrove-bot
           git config user.email succede-altrove-bot@users.noreply.github.com
-          git add -A posts queue storico.md
+          git add -A
           git diff --cached --quiet || (git commit -qm "render $(date -u +%F_%H%M)" && git pull --rebase -q && git push -q)
