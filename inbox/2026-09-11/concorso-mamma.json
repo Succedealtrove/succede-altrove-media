@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-11_concorso-mamma",
+ "region": {
+  "flag": "🇨🇳",
+  "label": "CINA",
+  "platform": "WEIBO"
+ },
+ "source_short": "fonti: World Journal · Weibo · 11/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Cina · 11 settembre",
+   "headline": "Bocciato 4 volte al ==concorso==, la mamma gli regala il mondo",
+   "sub": "In Cina il concorso pubblico ha un nome: 考公. Vi suona familiare?",
+   "glyph": "考公",
+   "heat": 3,
+   "size": 108,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "CHANGSHA",
+    "date": "11 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "22.000 yuan, ==6 paesi==, 2 mesi",
+   "body": "Un ragazzo di Changsha ha fallito 4 volte in 2 anni l'esame per il pubblico impiego. Poi è partito: 6 paesi e 17 città in 2 mesi.",
+   "source": "fonte: World Journal · 11/09/2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Io ti porto a vedere il mondo, tu realizzi il mio sogno.",
+   "who": "la madre, nel video virale (traduzione nostra)",
+   "note": "Online la frase è piaciuta perché è ironica e affettuosa insieme.",
+   "source": "fonte: World Journal · 11/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché è ==virale==",
+   "body": "Il contrasto: quattro bocciature da una parte, un viaggio in sei paesi dall'altra. Oggi la storia è tra i temi caldi di Weibo.",
+   "source": "fonte: Weibo hot search · 11/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Stesso esame, due mamme",
+   "top_label": "IN CINA",
+   "top": "Bocciato al concorso? La mamma ti paga il ==viaggio==",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Bocciato al concorso? La mamma ti iscrive al prossimo",
+   "source": "fonte: World Journal · 11/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi sta ==studiando== per un concorso",
+   "sub": "Magari la sua mamma prende appunti."
+  }
+ ]
+}
