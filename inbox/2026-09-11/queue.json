@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-11",
+  "version": "2026-09-11T16:58:41+02:00",
+  "items": [
+    {
+      "slot": "adesso",
+      "status": "ready",
+      "post_id": "2026-09-11_concorso-mamma",
+      "slug": "concorso-mamma",
+      "pillar": "RADAR",
+      "hook": "Bocciato 4 volte al concorso, la mamma gli regala il mondo",
+      "caption": "Bocciato 4 volte al concorso pubblico, in Cina la mamma gli finanzia un viaggio in 6 paesi.\n\nLì l'esame per il pubblico impiego ha un nome: 考公 (kǎogōng). Un ragazzo di Changsha l'ha fallito 4 volte in 2 anni, poi ha speso 22.000 yuan per vedere 6 paesi e 17 città in 2 mesi.\nLa frase della madre, «Io ti porto a vedere il mondo, tu realizzi il mio sogno», oggi è tra i temi caldi di Weibo.\n\nFonti: World Journal (11/09/2026), Weibo hot search (11/09/2026). Citazione: traduzione nostra.\n\nManda questo post a chi sta studiando per un concorso.\n\n#concorsopubblico #postofisso #cina #weibo #succedealtrove",
+      "alt_text": "Carosello blu e bianco: un ragazzo cinese bocciato quattro volte al concorso pubblico parte per un viaggio in sei paesi pagato dalla madre.",
+      "sources": [
+        {
+          "outlet": "World Journal",
+          "date": "2026-09-11",
+          "url": "https://www.worldjournal.com/wj/story/121343/9748331"
+        },
+        {
+          "outlet": "Weibo hot search (via tophub)",
+          "date": "2026-09-11",
+          "url": "https://tophub.today/n/KqndgxeLl9"
+        },
+        {
+          "outlet": "ifeng video",
+          "date": "2026-09",
+          "url": "https://v.ifeng.com/c/8wJPxEuZNSe"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 114
+    },
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-11_ravioli-sicari",
+      "slug": "ravioli-sicari",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "Il conto sicario: 28 yuan per 2 ravioli",
+      "caption": "In Cina il prezzo che ti colpisce alla cassa ha un nome: 刺客, «sicario».\n\nA Shanghai una porzione di ravioli da 28 yuan contiene 2 ravioli, e online li hanno ribattezzati 馄饨刺客, «ravioli sicari». Il locale dice che sono grandi e fatti con ingredienti costosi. Un utente ha risposto: «Il titolare ci guadagna 26 yuan, tra le lacrime».\nIl nostro sicario? 2 euro in più per tagliare a metà un toast, sul lago di Como, nel 2023.\n\nFonti: Tencent News (10/09/2026), Sina (23/08/2026), Italia a Tavola (07/08/2023). Traduzioni nostre.\n\nQual è lo scontrino sicario più assurdo che hai visto? Scrivilo nei commenti.\n\n#prezzi #scontrino #shanghai #cina #succedealtrove",
+      "alt_text": "Card divisa in due: sopra i ravioli da 28 yuan per due pezzi a Shanghai, sotto i 2 euro per tagliare un toast sul lago di Como.",
+      "sources": [
+        {
+          "outlet": "Tencent News",
+          "date": "2026-09-10",
+          "url": "https://news.qq.com/rain/a/20260910V09XU200"
+        },
+        {
+          "outlet": "Sina",
+          "date": "2026-08-23",
+          "url": "https://www.sina.cn/news/detail/5335111356647335.html"
+        },
+        {
+          "outlet": "Italia a Tavola",
+          "date": "2023-08-07",
+          "url": "https://www.italiaatavola.net/attualita-mercato/2023/8/7/tagliare-toast-meta-costa-2-euro-caso-bar-gera-lario/98607/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 103
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-11_soglia-35-anni",
+      "slug": "soglia-35-anni",
+      "pillar": "PAROLE DAL MONDO",
+      "hook": "In Cina il lavoro ha una data di scadenza: 35 anni",
+      "caption": "In Cina il lavoro ha una soglia d'età: la chiamano 35岁门槛, «la soglia dei 35 anni».\n\nNegli annunci compare il requisito «sotto i 35 anni». Un ingegnere di 38 anni di Dalian ha raccontato di aver mandato 119 curriculum in sei mesi, con 3 colloqui. Oggi su Weibo è in tendenza la proposta di non comprare i prodotti delle aziende che non assumono over 35.\n\nFonti: Gongren Ribao (28/03/2025), NetEase (04/12/2024), Weibo hot search (11/09/2026). Traduzioni nostre.\n\nManda questo post al collega che ha appena fatto 35 anni.\n\n#lavoro #over35 #colloquio #cina #succedealtrove",
+      "alt_text": "Carosello sulla «soglia dei 35 anni» nel lavoro in Cina, con il confronto ironico con l'Italia.",
+      "sources": [
+        {
+          "outlet": "Gongren Ribao via ncss.cn",
+          "date": "2025-03-28",
+          "url": "https://www.ncss.cn/ncss/jydt/jy/202503/20250328/2293369761.html"
+        },
+        {
+          "outlet": "NetEase",
+          "date": "2024-12-04",
+          "url": "https://www.163.com/dy/article/JIIEK5ST05566CTH.html"
+        },
+        {
+          "outlet": "Weibo hot search (via tophub)",
+          "date": "2026-09-11",
+          "url": "https://tophub.today/n/KqndgxeLl9"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 103
+    }
+  ]
+}
