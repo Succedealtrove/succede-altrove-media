@@ -1,0 +1,38 @@
+name: render
+on:
+  push:
+    paths: ['inbox/**', 'published/**', 'engine/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Font
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-cjk-extra fonts-noto-color-emoji fonts-dejavu-core >/dev/null
+          mkdir -p ~/.local/share/fonts && cd ~/.local/share/fonts
+          G=https://github.com/google/fonts/raw/main/ofl
+          for w in Regular Medium Bold Light Italic MediumItalic BoldItalic; do curl -fsSL -o Poppins-$w.ttf $G/poppins/Poppins-$w.ttf; done
+          curl -fsSL -o Lora-Variable.ttf "$G/lora/Lora%5Bwght%5D.ttf"
+          curl -fsSL -o Lora-Italic-Variable.ttf "$G/lora/Lora-Italic%5Bwght%5D.ttf"
+          fc-cache -f >/dev/null
+      - name: Playwright
+        run: pip install -q playwright pillow && python -m playwright install --with-deps chromium >/dev/null
+      - name: Render
+        run: python engine/build.py
+      - name: Commit
+        run: |
+          git config user.name succede-altrove-bot
+          git config user.email succede-altrove-bot@users.noreply.github.com
+          git add -A posts queue storico.md
+          git diff --cached --quiet || (git commit -qm "render $(date -u +%F_%H%M)" && git pull --rebase -q && git push -q)
