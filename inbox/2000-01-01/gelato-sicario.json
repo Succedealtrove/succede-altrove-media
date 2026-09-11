@@ -1,0 +1,54 @@
+{
+ "post_id": "2026-09-11_test",
+ "region": {
+  "flag": "🇨🇳",
+  "label": "CINA",
+  "platform": "WEIBO"
+ },
+ "source_short": "fonti: Weibo hot search · 11/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Cina · 11 settembre",
+   "headline": "In Cina il prezzo che ti ==pugnala== ha un nome",
+   "sub": "E in Italia lo conosciamo benissimo, al bar.",
+   "glyph": "刺客",
+   "heat": 4,
+   "size": 118,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "PECHINO",
+    "date": "11 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Il gelato ==sicario==",
+   "body": "Su Weibo lo chiamano 雪糕刺客: il gelato che sembra normale e alla cassa costa 20 yuan. L'hashtag ha superato i 100 milioni di letture.",
+   "source": "fonte: test · 11/09/2026",
+   "glyph": "刺客"
+  },
+  {
+   "type": "quote",
+   "quote": "Ho preso un gelato a caso e ho pagato come un pranzo.",
+   "who": "utente Weibo (traduzione nostra)",
+   "note": "È diventato un meme nazionale.",
+   "source": "fonte: test"
+  },
+  {
+   "type": "split",
+   "title": "Stessa scena, due paesi",
+   "top_label": "IN CINA",
+   "top": "Il gelato ==sicario== da 20 yuan nel freezer",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Il caffè al tavolo in piazza San Marco",
+   "source": "fonte: test"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==paga sempre== il conto",
+   "sub": "Qual è il tuo prezzo sicario? Scrivilo nei commenti."
+  }
+ ]
+}
