@@ -1,0 +1,61 @@
+{
+ "post_id": "2026-09-11_soglia-35-anni",
+ "region": {
+  "flag": "🇨🇳",
+  "label": "CINA",
+  "platform": "WEIBO"
+ },
+ "source_short": "fonti: Gongren Ribao · NetEase · Weibo",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Parole dal mondo · Cina · 11 settembre",
+   "headline": "In Cina il lavoro ha una data di scadenza: ==35 anni==",
+   "sub": "La chiamano 35岁门槛, la soglia dei 35. E ora c'è chi propone un boicottaggio.",
+   "glyph": "门槛",
+   "heat": 3,
+   "size": 108,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "CINA",
+    "date": "11 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "«Sotto i 35 anni, ==obbligatorio==»",
+   "body": "È un requisito che compare negli annunci. Un ingegnere di 38 anni di Dalian ha mandato 119 curriculum in sei mesi: 3 colloqui.",
+   "source": "fonte: Gongren Ribao · 28/03/2025"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché proprio ==35==",
+   "body": "In cinese si dice 上有老，下有小: sopra hai i genitori anziani, sotto i figli. È l'età in cui servono più certezze, e molti annunci ti escludono.",
+   "source": "fonte: NetEase · 04/12/2024",
+   "glyph": "上有老"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "La risposta: un ==boicottaggio==",
+   "body": "Oggi su Weibo è in tendenza una proposta: non comprare i prodotti delle aziende che non assumono chi ha più di 35 anni.",
+   "source": "fonte: Weibo hot search · 11/09/2026 (traduzione nostra)"
+  },
+  {
+   "type": "split",
+   "title": "Stessa età, due etichette",
+   "top_label": "IN CINA",
+   "top": "A 35 anni sei ==troppo vecchio== per l'annuncio",
+   "bottom_label": "IN ITALIA",
+   "bottom": "A 35 anni sei ancora «il ragazzo» dell'ufficio",
+   "source": "fonti: Gongren Ribao · NetEase"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post al collega che ha appena fatto ==35 anni==",
+   "sub": "Da noi è ancora giovane. Diglielo."
+  }
+ ]
+}
