@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-15_volto-tatuato",
+ "region": {
+  "flag": "🇫🇷",
+  "label": "FRANCIA",
+  "platform": "TikTok"
+ },
+ "source_short": "fonti: Paris Match 14/09/2026 · Demotivateur 13/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Francia · 14 settembre",
+   "headline": "Scrollando i social ha visto ==il suo viso== tatuato su uno sconosciuto",
+   "sub": "Poi ha scoperto che non era l'unico.",
+   "size": 96,
+   "heat": 4,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "FRANCIA",
+    "date": "14 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Una ventina di persone, la stessa faccia",
+   "body": "La francese Mélanie Wailcester stava scorrendo i social quando ha riconosciuto il proprio viso tatuato sull'avambraccio di uno sconosciuto.\nCercando, ne ha trovati una ventina. Nessuno di loro la conosce.",
+   "source": "fonte: Paris Match · 14/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Come ci sono arrivati",
+   "body": "Le foto che pubblicava su Instagram erano state ricaricate su Pinterest, dove i tatuatori cercano modelli di visi.\nLì un'immagine arriva senza autore: nessuno le ha chiesto niente.",
+   "source": "fonte: Brain Magazine · 14/09/2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Ci ho messo un po' a capire che era il mio viso, tatuato su quel corpo.",
+   "who": "Mélanie Wailcester",
+   "note": "«Sul momento è stato abbastanza surreale.» Traduzione nostra.",
+   "source": "fonte: Demotivateur · 13/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Le foto che pubblichi non restano tue",
+   "top_label": "IN FRANCIA",
+   "top": "Il suo viso è su una ventina di braccia.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "La tua bacheca di idee per un tatuaggio è piena di facce di qualcuno.",
+   "source": "fonti: Paris Match, Brain Magazine · 14/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ha ==una bacheca== di idee per un tatuaggio",
+   "sub": "Poi controllate insieme di chi è quella faccia.",
+   "size": 84
+  }
+ ]
+}
