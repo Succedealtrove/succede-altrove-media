@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-15_bollini-verdi",
+ "region": {
+  "flag": "🇪🇺",
+  "label": "UNIONE EUROPEA"
+ },
+ "source_short": "fonti: Earth911 21/07/2026 · watson.de 15/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Spiegone · Europa · 27 settembre",
+   "headline": "Da domenica 27 ==«eco-friendly»== non si potrà più scrivere così",
+   "sub": "Vale in tutti i 27 paesi dell'Unione. Italia compresa.",
+   "size": 100,
+   "heat": 3,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "BRUXELLES",
+    "date": "27 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa sparisce dalle etichette",
+   "body": "Dal 27 settembre diventa illegale scrivere «green», «eco-friendly» o «climaticamente neutro» su un prodotto senza poterlo dimostrare.\nVia anche i bollini di sostenibilità che l'azienda si dà da sola.",
+   "source": "fonte: Earth911 · 21/07/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché l'hanno fatto",
+   "body": "La Commissione europea ha contato 230 bollini di sostenibilità in circolazione in Europa.\nE ha stimato che il 53% delle promesse ambientali sui prodotti fosse vago, fuorviante o senza prove.",
+   "source": "fonte: watson.de · 15/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Chi paga se l'etichetta mente",
+   "body": "A rispondere davanti alle autorità dei consumatori non è chi produce.\nÈ chi vende: il negozio.",
+   "source": "fonte: Earth911 · 21/07/2026"
+  },
+  {
+   "type": "split",
+   "title": "Cosa cambia allo scaffale",
+   "top_label": "FINO AL 26 SETTEMBRE",
+   "top": "«Prodotto green» lo scrivi e basta.",
+   "bottom_label": "DAL 27 SETTEMBRE",
+   "bottom": "Lo scrivi solo se lo dimostri.",
+   "source": "fonti: Earth911 (21/07/2026), watson.de (15/09/2026)"
+  },
+  {
+   "type": "cta",
+   "headline": "Quante volte hai comprato qualcosa perché diceva ==«green»==?",
+   "sub": "Scrivilo nei commenti.",
+   "size": 92
+  }
+ ]
+}
