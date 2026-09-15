@@ -1,0 +1,19 @@
+{
+ "post_id": "2026-09-15_passaporto-irlanda",
+ "region": {
+  "flag": "🇮🇪",
+  "label": "IRLANDA · UK"
+ },
+ "source_short": "fonti: RTÉ 26/08/2026 · Euronews 31/08/2026",
+ "slides": [
+  {
+   "type": "split",
+   "title": "Un secolo senza passaporto. Da lunedì 28 settembre, no.",
+   "top_label": "TRA IRLANDA E REGNO UNITO",
+   "top": "Sul traghetto serve il ==passaporto==. Per legge non servirebbe.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Per la Spagna o la Grecia ti basta la carta d'identità.",
+   "source": "fonti: RTÉ (26/08/2026), Euronews (31/08/2026), Your Europe"
+  }
+ ]
+}
