@@ -1,0 +1,58 @@
+{
+ "post_id": "2026-09-16_telefono-liceo",
+ "region": {
+  "flag": "🇫🇷",
+  "label": "FRANCIA"
+ },
+ "source_short": "fonti: Ministère de l'Éducation nationale (02/07/2026) · Clubic (29/08/2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Francia · 16 settembre",
+   "headline": "In Francia il telefono si chiude in una ==bustina==. Anche al liceo.",
+   "sub": "Dal 1° settembre, in tutti i 3.700 licei del paese.",
+   "heat": 3,
+   "size": 104,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "PARIGI",
+    "date": "1 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Non solo in classe",
+   "body": "Dal 1° settembre, in tutti i 3.700 licei francesi il telefono non si può usare dentro la scuola.\nNon solo durante le lezioni: in tutto l'istituto, ricreazione compresa.",
+   "source": "fonte: Clubic · 29 agosto 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Un buco rimasto aperto otto anni",
+   "body": "La Francia aveva vietato il telefono a elementari e medie nel 2018, lasciando fuori i licei.\nA chiudere il buco è una legge del 24 agosto 2026.",
+   "source": "fonte: Clubic · 29 agosto 2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Tre modi per farlo sparire",
+   "body": "Ogni liceo sceglie: ==armadietto== singolo, scatola collettiva all'ingresso, o una bustina che si chiude e resta in tasca allo studente.",
+   "source": "fonte: Ministère de l'Éducation nationale · circolare del 2 luglio 2026"
+  },
+  {
+   "type": "split",
+   "title": "Per una volta, prima noi",
+   "top_label": "IN FRANCIA",
+   "top": "Dal 2026 il telefono si chiude anche al liceo.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Si fa già da settembre 2025.",
+   "source": "fonti: Clubic (29/08/2026) · Orizzonte Scuola (02/09/2025)"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ha un figlio al ==liceo==.",
+   "sub": "Il mondo è già virale. Tu lo scopri qui."
+  }
+ ]
+}
