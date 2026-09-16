@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-16_ritardo-social",
+ "region": {
+  "flag": "🇨🇳",
+  "label": "CINA",
+  "platform": "Weibo"
+ },
+ "source_short": "fonti: classifica Weibo del 16/09/2026 · Tencent News (14/08/2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Spiegone · Cina · 16 settembre",
+   "headline": "In Cina le foto si pubblicano in ==ritardo==. Apposta.",
+   "sub": "È la frase più discussa oggi sui social cinesi.",
+   "glyph": "滞后性",
+   "heat": 5,
+   "size": 110,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "PECHINO",
+    "date": "16 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Una frase in cima alla classifica",
+   "body": "Oggi in testa alle ricerche di Weibo c'è una regola non scritta: «i post devono avere un ritardo».\nNon è una funzione dell'app. È un modo di usarla che si sono dati da soli.",
+   "source": "fonte: classifica Weibo · 16 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Come si fa, in pratica",
+   "body": "Si pubblica subito, ma visibile solo a sé stessi. Dopo qualche giorno si apre a tutti.\nCosì il post non entra nel flusso degli amici: resta sulla propria pagina, con la data di quando è successo davvero.",
+   "source": "fonte: Tencent News · 14 agosto 2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Perché lo fanno",
+   "body": "Chi lo fa dice di non voler essere seguito ==in diretta==: dove sei, con chi, mentre ci sei. E di non voler reggere i commenti mentre la cosa sta ancora succedendo.",
+   "source": "fonte: Tencent News · 14 agosto 2026"
+  },
+  {
+   "type": "split",
+   "title": "Due modi di raccontarsi",
+   "top_label": "IN CINA",
+   "top": "La foto della vacanza esce a vacanza finita.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Esce dall'ombrellone, con la posizione.",
+   "source": "fonte: Tencent News · 14 agosto 2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Tu quanto aspetti prima di ==postare==?",
+   "sub": "Scrivilo nei commenti."
+  }
+ ]
+}
