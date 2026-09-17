@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-17_cornice-uccelli",
+ "region": {
+  "flag": "🇳🇴",
+  "label": "NORVEGIA",
+  "platform": "Hacker News"
+ },
+ "source_short": "fonti: Hacker News 15/09/2026 · arnegiacomo.dev",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Norvegia · 17 settembre",
+   "headline": "In Norvegia una cornice ==ascolta== il giardino e disegna gli uccelli",
+   "sub": "Bergen: un microfono alla finestra, uno schermo e-ink, illustrazioni dell'Ottocento.",
+   "heat": 5,
+   "size": 100,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "BERGEN",
+    "date": "15 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Un quadro\nalla finestra di cucina",
+   "body": "Un pannello e-ink appeso in una cucina di Bergen. Fuori c'è un microfono: sul quadro compaiono solo gli uccelli passati davvero in giardino poco prima.",
+   "source": "fonte: Hacker News, prima pagina · 15/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Come fa a sapere\nchi sta cantando",
+   "body": "Il microfono passa l'audio a BirdNET, il classificatore che riconosce le specie dal canto. Gira lì dentro, non su un server lontano: la cornice ascolta e decide da sola.",
+   "source": "fonte: documentazione del progetto · arnegiacomo.dev"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "800 uccelli\nritagliati a mano",
+   "body": "Oltre 800 figure prese da tavole naturalistiche di pubblico dominio, per più di 400 specie. Ogni uccello è grande in proporzione a quanto pesa davvero.",
+   "source": "fonte: documentazione del progetto · arnegiacomo.dev"
+  },
+  {
+   "type": "split",
+   "title": "E quando non canta nessuno",
+   "top_label": "IN NORVEGIA",
+   "top": "Il quadro in cucina resta con un ramo vuoto.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Senti un uccello dal balcone, cerchi sul telefono, ti arrendi.",
+   "source": "fonti: Hacker News 15/09/2026 · arnegiacomo.dev"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==riconosce== gli uccelli dal canto.",
+   "sub": "Oppure a chi ci prova ogni primavera e sbaglia sempre.",
+   "size": 96
+  }
+ ]
+}
