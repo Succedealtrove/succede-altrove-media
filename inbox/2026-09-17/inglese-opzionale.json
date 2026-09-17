@@ -1,0 +1,61 @@
+{
+ "post_id": "2026-09-17_inglese-opzionale",
+ "region": {
+  "flag": "🇨🇳",
+  "label": "CINA",
+  "platform": "social cinesi"
+ },
+ "source_short": "fonti: The Star 13/09/2026 · New York Times 16/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "In arrivo · Cina · 17 settembre",
+   "headline": "Un prof di matematica vuole togliere l'==inglese== dalle materie principali",
+   "sub": "Cina, 13 settembre. Scrive un post, e diventa un caso nazionale.",
+   "heat": 4,
+   "size": 98,
+   "stamp": "PREVISIONE",
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "CINA",
+    "date": "13 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa ha scritto",
+   "body": "Tang Jiafeng è un insegnante di matematica noto per i corsi di preparazione agli esami di ammissione. Sabato ha scritto: «Chiedo pubblicamente che all'inglese venga tolto lo status di materia fondamentale».",
+   "source": "fonte: The Star · 13/09/2026 · traduzione nostra"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché è un caso",
+   "body": "All'esame per l'università, il gaokao, l'inglese vale 150 punti su 750: come cinese e matematica. Spostarlo significa spostare anni di studio di milioni di ragazzi.",
+   "source": "fonte: The Star · 13/09/2026"
+  },
+  {
+   "type": "quote",
+   "quote": "L'istruzione di base deve lasciare a tutti lo spazio per arrivare il più lontano possibile.",
+   "who": "Hu Xijin, ex direttore del Global Times",
+   "note": "Per lui togliere l'inglese colpirebbe soprattutto le famiglie che non possono pagarlo a parte.",
+   "source": "fonte: The Star · 13/09/2026 · traduzione nostra"
+  },
+  {
+   "type": "split",
+   "title": "Perché ne parleremo anche qui",
+   "top_label": "IN CINA",
+   "top": "Se traduce l'AI, l'inglese vale ancora 150 punti d'esame?",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Stessa domanda, tra poco: il telefono traduce, serve ancora studiarlo?",
+   "source": "fonte: New York Times · 16/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "L'inglese a scuola serve ancora? ==Scrivilo== nei commenti.",
+   "sub": "Rispondi come se dovessi spiegarlo a un ragazzo di 14 anni.",
+   "size": 94
+  }
+ ]
+}
