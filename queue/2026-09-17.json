@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-17",
+  "version": "2026-09-17T11:04:03+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-17_cornice-uccelli",
+      "slug": "cornice-uccelli",
+      "pillar": "RADAR",
+      "hook": "In Norvegia una cornice ascolta il giardino e disegna gli uccelli",
+      "caption": "A Bergen, in Norvegia, un programmatore ha appeso in cucina una cornice che ascolta gli uccelli del giardino e li disegna mentre cantano.\n\nDentro c'è un microfono e BirdNET, il classificatore che riconosce le specie dal canto: gira sul posto, non su un server lontano. Sul pannello e-ink compaiono solo gli uccelli passati in giardino poco prima, ritagliati da tavole naturalistiche di pubblico dominio e grandi in proporzione a quanto pesano davvero. Sono oltre 800 figure scelte a mano, per più di 400 specie. Quando non canta nessuno, resta un ramo vuoto.\n\nIl progetto si chiama \"fugleramme\": in norvegese vuol dire semplicemente \"cornice per uccelli\". (traduzione nostra)\n\nFonti: Hacker News, prima pagina (15/09/2026); documentazione del progetto su arnegiacomo.dev.\n\nManda questo post a chi riconosce gli uccelli dal canto.\n\n#norvegia #uccelli #tecnologia #faidate #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che in Norvegia una cornice ascolta il giardino e disegna gli uccelli; le schede seguenti spiegano che è un pannello e-ink appeso in una cucina di Bergen, che un microfono passa l'audio al classificatore BirdNET, e che le figure sono oltre 800 ritagli da tavole naturalistiche di pubblico dominio.",
+      "sources": [
+        {
+          "outlet": "Hacker News (prima pagina)",
+          "date": "2026-09-15",
+          "url": "https://news.ycombinator.com/front"
+        },
+        {
+          "outlet": "arnegiacomo.dev — documentazione del progetto",
+          "date": "2026-09-15",
+          "url": "https://arnegiacomo.dev/fugleramme/"
+        },
+        {
+          "outlet": "GitHub — arnegiacomo/fugleramme",
+          "date": "2026-09-15",
+          "url": "https://github.com/arnegiacomo/fugleramme"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/cornice-uccelli/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/cornice-uccelli/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-17_moneta-bluey",
+      "slug": "moneta-bluey",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "Un cartone per bambini finito su una moneta vera",
+      "caption": "La Zecca australiana ha presentato una moneta da 1 dollaro dedicata a Bluey, il cartone dei cani di Brisbane: 200.000 pezzi colorati e 20.000 in argento.\n\nLa moneta riprende \"Cricket\", l'episodio che i fan hanno votato come preferito, con Rusty che colpisce la palla in giardino. La Zecca chiama questa serie \"Dollarbucks\", come i soldi che nel cartone la fatina dei denti lascia a Bluey. «Il cricket è un po' come la vita: a volte fai sei, a volte la palla non la prendi proprio», ha detto Emily Martin, amministratrice della Zecca. (traduzione nostra)\n\nFonti: ABC News (17/09/2026); Royal Australian Mint.\n\nManda questo post a chi mette da parte le monete da 2 euro.\n\n#australia #bluey #monete #cartonianimati #succedealtrove",
+      "alt_text": "Card grafica divisa in due con bordo a strisce rosso e blu. Sopra, pannello blu: in Australia la Zecca conia 200.000 monete da 1 dollaro con un episodio di Bluey. Sotto, pannello bianco: in Italia i 2 euro commemorativi arrivano nel resto e non li guarda nessuno.",
+      "sources": [
+        {
+          "outlet": "ABC News",
+          "date": "2026-09-17",
+          "url": "https://www.abc.net.au/news/2026-09-17/mint-new-bluey-collector-cricket-coin/107162394"
+        },
+        {
+          "outlet": "Royal Australian Mint",
+          "date": "2026-09-17",
+          "url": "https://www.ramint.gov.au/collect/national-coin-collection/corporate-partnerships/australia-post-programs/bluey-dollarbucks"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 132,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/moneta-bluey/01.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/moneta-bluey/01.jpg"
+      ],
+      "action": "create_image_post"
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-17_inglese-opzionale",
+      "slug": "inglese-opzionale",
+      "pillar": "IN ARRIVO",
+      "hook": "Un prof di matematica vuole togliere l'inglese dalle materie principali",
+      "caption": "In Cina un insegnante di matematica ha chiesto di togliere all'inglese lo status di materia fondamentale a scuola, e la frase è diventata un caso nazionale.\n\nIl post è di Tang Jiafeng, noto per i corsi di preparazione agli esami di ammissione: per lui l'inglese «è solo uno strumento» e ruba anni ai ragazzi. Il punto è il gaokao, l'esame per l'università, dove l'inglese vale 150 punti su 750, come cinese e matematica. A rendere la domanda attuale è l'AI, che ormai traduce quasi tutto. Alcune province, tra cui Jiangsu e Shanghai, hanno già alleggerito l'inglese alle elementari. (traduzione nostra)\n\nFonti: The Star (13/09/2026); New York Times (16/09/2026).\n\nL'inglese a scuola serve ancora? Scrivilo nei commenti.\n\n#cina #scuola #inglese #intelligenzaartificiale #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu e timbro PREVISIONE. La copertina blu dice che in Cina un professore di matematica vuole togliere l'inglese dalle materie principali; le schede seguenti riportano la sua frase, spiegano che al gaokao l'inglese vale 150 punti su 750 e riportano la replica di Hu Xijin.",
+      "sources": [
+        {
+          "outlet": "The Star (ASEAN+)",
+          "date": "2026-09-13",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/should-chinese-schools-demote-english-as-a-core-subject"
+        },
+        {
+          "outlet": "New York Times (via Techmeme)",
+          "date": "2026-09-16",
+          "url": "https://www.techmeme.com/260916/p8"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 125,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-17/inglese-opzionale/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-17/inglese-opzionale/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    }
+  ]
+}
