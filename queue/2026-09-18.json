@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-18",
+  "version": "2026-09-18T10:35:54+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-18_batman-opera-house",
+      "slug": "batman-opera-house",
+      "pillar": "RADAR",
+      "hook": "A Sydney Batman è salito sul tetto dell'Opera House",
+      "caption": "Giovedì a Sydney più persone hanno visto un uomo vestito da Batman in piedi sul tetto dell'Opera House, e la polizia ha dato la spiegazione sbagliata.\n\nLa polizia del Nuovo Galles del Sud ha fatto sapere che c'entrava un film in lavorazione in città. Ma l'unico film di Batman in produzione si gira a Londra, con Robert Pattinson, e arriva al cinema a febbraio 2028. Era invece la prova generale del Batman Day: sabato 19 settembre alle 18 il personaggio torna sulle vele dell'Opera House, e questa volta si può andare a guardare. DC festeggia il Batman Day ogni terzo sabato di settembre; quest'anno il personaggio compie 87 anni. (traduzione nostra)\n\nFonti: Variety Australia (17/09/2026); Mediaweek Australia (17/09/2026).\n\nManda questo post al tuo amico fissato con Batman.\n\n#australia #sydney #batman #curiosita #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che a Sydney Batman è salito sul tetto dell'Opera House e che la polizia ha dato la spiegazione sbagliata; le schede seguenti raccontano gli avvistamenti di giovedì, spiegano che l'unico film di Batman si gira a Londra con Robert Pattinson, e che si trattava della prova generale del Batman Day di sabato 19 settembre.",
+      "sources": [
+        {
+          "outlet": "Variety Australia",
+          "date": "2026-09-17",
+          "url": "https://au.variety.com/2026/film/news/batman-sydney-opera-house-sightings-40460/"
+        },
+        {
+          "outlet": "Mediaweek Australia",
+          "date": "2026-09-17",
+          "url": "https://www.mediaweek.com.au/those-batman-sightings-on-top-of-the-sydney-opera-house-aren-t-for-a-film"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/batman-opera-house/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/batman-opera-house/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-18_eu-kids-act",
+      "slug": "eu-kids-act",
+      "pillar": "IN ARRIVO",
+      "hook": "Sotto i 13 anni niente social: l'Europa l'ha messo per iscritto",
+      "caption": "La Commissione europea ha proposto di vietare i social ai bambini sotto i 13 anni in tutta l'Unione: il testo si chiama EU Kids Act.\n\nSotto i 13 restano solo servizi video pensati per bambini e attivati da un genitore, con un'ora di schermo al giorno. Tra i 13 e i 14 si entra con un sotto-account aperto dai genitori su piattaforme adatte all'età, sempre un'ora al giorno; dai 15 il profilo si apre da soli. Cambia anche come funzionano le app: niente scorrimento infinito, niente notifiche di notte, stop agli algoritmi che trascinano i ragazzi in quelli che il testo chiama «rabbit holes». I chatbot restano spenti di default e non devono creare «dipendenza emotiva». La Commissione chiede una corsia veloce da 90 giorni, ma l'approvazione non è scontata: la Francia ha già fermato una proposta simile in nome della libertà di espressione. (traduzione nostra)\n\nFonti: Engadget (17/09/2026); MacRumors (16/09/2026).\n\nSecondo te 13 anni è l'età giusta? Scrivilo nei commenti.\n\n#europa #social #genitori #adolescenti #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu e timbro PREVISIONE. La copertina blu dice che sotto i 13 anni niente social e che l'Europa l'ha messo per iscritto; le schede seguenti spiegano l'EU Kids Act, la scala per età fino ai 15 anni, il divieto di scorrimento infinito e di notifiche notturne, e la corsia di approvazione da 90 giorni.",
+      "sources": [
+        {
+          "outlet": "Engadget",
+          "date": "2026-09-17",
+          "url": "https://www.engadget.com/2261071/europes-eu-kids-act-would-ban-social-media-access-for-children-under-13/"
+        },
+        {
+          "outlet": "MacRumors",
+          "date": "2026-09-16",
+          "url": "https://www.macrumors.com/2026/09/16/eu-kids-act-ban-social-media-under-13s/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/06.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/eu-kids-act/07.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/06.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/eu-kids-act/07.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-18_enshittificator",
+      "slug": "enshittificator",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "In Norvegia chi rovina i tuoi oggetti ora ha una faccia",
+      "caption": "In Norvegia l'ente pubblico dei consumatori ha lanciato un nuovo spot con l'Enshittificator, il personaggio il cui mestiere è far durare meno i prodotti che compriamo.\n\nIl film è uscito il 17 settembre, lo firma l'agenzia NewsLab di Oslo ed è il secondo della serie. Stavolta l'Enshittificator lavora in coppia con chi, di mestiere, si occupa della fine di tutte le cose: lui la fa solo arrivare prima. Il rapporto che accompagna la campagna si intitola «Compra. Usa. Butta. Ripeti?»: secondo il Consiglio dei consumatori norvegese due persone su tre hanno buttato un oggetto perché non trovavano il pezzo di ricambio, e tre su quattro si sono ritrovate con un apparecchio bloccato perché era finito il supporto software. «La qualità deve tornare a essere la norma», dice Elin Volder Rutle, responsabile sostenibilità dell'ente: chiedono garanzie più lunghe, riparazioni più economiche e regole più dure sull'obsolescenza programmata. (traduzione nostra)\n\nFonti: Famous Campaigns (17/09/2026); Forbrukerrådet, rapporto «Kjøp. Bruk. Kast. Gjenta?» (16/09/2026).\n\nManda questo post a chi ha ancora in casa un elettrodomestico di trent'anni fa.\n\n#norvegia #consumatori #riparare #elettrodomestici #succedealtrove",
+      "alt_text": "Card grafica divisa in due con bordo a strisce rosso e blu. Sopra, pannello blu: in Norvegia l'ente pubblico dei consumatori manda in tv l'Enshittificator, il cui mestiere è far durare meno le cose. Sotto, pannello bianco: in Italia il pezzo di ricambio non esiste più e lo spot non lo gira nessuno.",
+      "sources": [
+        {
+          "outlet": "Famous Campaigns",
+          "date": "2026-09-17",
+          "url": "https://www.famouscampaigns.com/2026/09/norways-enshittificator-has-a-new-partner-death/"
+        },
+        {
+          "outlet": "Forbrukerrådet — Kjøp. Bruk. Kast. Gjenta?",
+          "date": "2026-09-16",
+          "url": "https://www.forbrukerradet.no/short-life/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 133,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-18/enshittificator/01.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-18/enshittificator/01.jpg"
+      ],
+      "action": "create_image_post"
+    }
+  ]
+}
