@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-18_batman-opera-house",
+ "region": {
+  "flag": "🇦🇺",
+  "label": "AUSTRALIA",
+  "platform": "GOOGLE TRENDS"
+ },
+ "source_short": "fonti: Variety Australia · Mediaweek · 17/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Australia · 17 settembre",
+   "headline": "A Sydney ==Batman== è salito sul tetto dell'Opera House",
+   "sub": "La polizia ha detto che era un film. Non era un film.",
+   "heat": 4,
+   "size": 112,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "SYDNEY",
+    "date": "17 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Un uomo in nero sulle vele",
+   "body": "Giovedì più persone hanno segnalato un uomo vestito da Batman in piedi sul tetto dell'Opera House di Sydney.\nLe immagini sono finite nei telegiornali australiani in poche ore.",
+   "source": "fonte: Variety Australia · 17/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "La prima spiegazione era sbagliata",
+   "body": "La polizia del Nuovo Galles del Sud ha fatto sapere che c'entrava un film in lavorazione in città.\nMa l'unico film di Batman in produzione si gira a Londra, con Robert Pattinson, e arriva al cinema a febbraio 2028.",
+   "source": "fonte: Mediaweek Australia · 17/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Era una prova generale",
+   "body": "Sabato 19 settembre alle 18 Batman torna lassù, e questa volta si può andare a guardare.\nDC festeggia il ==Batman Day== ogni terzo sabato di settembre: quest'anno il personaggio compie 87 anni.",
+   "source": "fonte: Variety Australia · 17/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Stessa scena, due pensieri diversi",
+   "top_label": "IN AUSTRALIA",
+   "top": "Vedi un uomo in nero sull'Opera House e pensi: stanno girando un film.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Vedi un uomo in nero sul tetto e pensi: sta sistemando l'antenna.",
+   "source": "fonti: Variety Australia · Mediaweek · 17/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post al tuo amico ==fissato con Batman==",
+   "sub": "Sabato alle 18, ora di Sydney, si replica."
+  }
+ ]
+}
