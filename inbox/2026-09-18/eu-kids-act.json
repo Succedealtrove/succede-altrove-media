@@ -1,0 +1,67 @@
+{
+ "post_id": "2026-09-18_eu-kids-act",
+ "region": {
+  "flag": "🇪🇺",
+  "label": "UNIONE EUROPEA",
+  "platform": "TECHMEME"
+ },
+ "source_short": "fonti: Engadget 17/09/2026 · MacRumors 16/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "In arrivo · Unione Europea · 17 settembre",
+   "headline": "Sotto i 13 anni niente social. L'Europa l'ha ==messo per iscritto==.",
+   "sub": "E dai 13 ai 14, un'ora di schermo al giorno con l'account aperto dai genitori.",
+   "heat": 4,
+   "size": 100,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "BRUXELLES",
+    "date": "17 SET 2026"
+   },
+   "stamp": "PREVISIONE"
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa ha proposto la Commissione",
+   "body": "Il testo si chiama EU Kids Act.\nSotto i 13 anni i social sono vietati: restano solo servizi video pensati per bambini e attivati da un genitore, con un'ora al giorno.",
+   "source": "fonte: Engadget · 17/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Poi si sale per gradi",
+   "body": "Tra i 13 e i 14 anni si entra con un sotto-account che apre un genitore, su piattaforme adatte all'età, sempre un'ora al giorno.\nDai ==15 anni== il profilo si apre da soli.",
+   "source": "fonte: Engadget · 17/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Cambia anche come funzionano le app",
+   "body": "Vietati lo scorrimento infinito, le notifiche di notte e gli algoritmi che trascinano i ragazzi in quelli che il testo chiama «rabbit holes».\nI chatbot restano spenti di default e non devono creare «dipendenza emotiva».",
+   "source": "fonte: Engadget · 17/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "04",
+   "title": "Quando succede, se succede",
+   "body": "La Commissione chiede una corsia veloce da 90 giorni.\nMa l'approvazione non è scontata: la Francia ha già fermato una proposta simile in nome della libertà di espressione.",
+   "source": "fonte: MacRumors · 16/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "La distanza tra la norma e il telefono",
+   "top_label": "IN EUROPA",
+   "top": "Si discute a che età un ragazzo può aprire un profilo.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Il profilo ce l'ha già, e la password la sa solo lui.",
+   "source": "fonti: Engadget · MacRumors · 17/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Secondo te ==13 anni== è l'età giusta?",
+   "sub": "Scrivilo nei commenti."
+  }
+ ]
+}
