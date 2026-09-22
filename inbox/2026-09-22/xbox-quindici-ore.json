@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-22_xbox-quindici-ore",
+ "region": {
+  "flag": "🇺🇸",
+  "label": "STATI UNITI",
+  "platform": "Google Trends"
+ },
+ "source_short": "fonti: Pure Xbox 03/09/2026 · Tom's Hardware 05/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "In arrivo · Stati Uniti · 3 settembre",
+   "headline": "Da novembre l'abbonamento più caro dà ==15 ore== al mese",
+   "sub": "Finite quelle il gioco si ferma, e per continuare si ricarica.",
+   "heat": 4,
+   "size": 108,
+   "stamp": "DA NOVEMBRE",
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "REDMOND",
+    "date": "3 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa cambia",
+   "body": "Chi gioca in streaming con Game Pass avrà un tetto di ore al mese: 5 con Essential, 10 con Premium, 15 con Ultimate, che costa 22,99 dollari al mese. Finite quelle, il gioco si ferma.",
+   "source": "fonte: Pure Xbox · 03/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché lo fanno",
+   "body": "Microsoft lo ha scritto così: «il costo di fornire il cloud gaming cresce man mano che più persone lo usano e giocano più a lungo». Chi vuole continuare compra ore extra sullo Xbox Store. (traduzione nostra)",
+   "source": "fonte: Pure Xbox · 03/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Quindici ore sono mezz'ora al giorno",
+   "body": "Microsoft stima che il limite tocchi circa il 4% degli abbonati.\nIl concorrente GeForce Now, di ore, ne dà cento.",
+   "source": "fonte: Tom's Hardware · 05/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "L'abbonamento",
+   "top_label": "DA NOVEMBRE",
+   "top": "15 ore al mese. Poi ricarichi.",
+   "bottom_label": "IN ITALIA LO CHIAMAVAMO",
+   "bottom": "Ricaricabile. E finiva sempre il 25 del mese.",
+   "source": "fonte: Pure Xbox · 03/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==gioca in streaming==",
+   "sub": "Le ore partono a novembre."
+  }
+ ]
+}
