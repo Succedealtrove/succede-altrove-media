@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-22_fiori-gialli-argentina",
+ "region": {
+  "flag": "🇦🇷",
+  "label": "ARGENTINA",
+  "platform": "Google Trends"
+ },
+ "source_short": "fonti: La Gaceta (Tucumán) 21/09/2026 · El Mostrador 21/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Argentina · 21 settembre",
+   "headline": "In Argentina i fiori gialli ==finiscono prima di mezzogiorno==",
+   "sub": "Succede ogni 21 settembre, e la colpa è di una telenovela.",
+   "heat": 4,
+   "size": 112,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "TUCUMÁN",
+    "date": "21 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Il 21 settembre lì si regalano fiori gialli",
+   "body": "In Argentina è insieme il primo giorno di primavera e il Día del Estudiante. I fiorai lo aspettano come una delle giornate di vendita più intense dell'anno: negli anni scorsi alcuni fiori gialli sono finiti prima di mezzogiorno.",
+   "source": "fonte: La Gaceta, Tucumán · 21/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "La colpa è di una telenovela",
+   "body": "L'usanza viene da Floricienta, la serie argentina degli anni 2000, e dalla sua canzone «Flores amarillas»: la protagonista sognava di riceverli da chi amava. Per anni è rimasta una cosa da fan.",
+   "source": "fonte: El Mostrador · 21/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Poi ci si sono messi i social",
+   "body": "La tradizione è diventata di massa su internet, e oggi il 21 settembre con i fiori gialli si fa anche in Cile.\nIl desiderio di un personaggio inventato è finito sul calendario di due paesi.",
+   "source": "fonte: El Mostrador · 21/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Il 21 settembre",
+   "top_label": "IN ARGENTINA",
+   "top": "Fiori gialli a tutti, e le fiorerie restano vuote.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Niente. L'autunno comincia il 23 e non lo festeggia nessuno.",
+   "source": "fonti: La Gaceta · El Mostrador · 21/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==guardava Floricienta==",
+   "sub": "E a chi il 21 settembre non ha mai regalato niente."
+  }
+ ]
+}
