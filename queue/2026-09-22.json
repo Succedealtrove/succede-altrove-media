@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-22",
+  "version": "2026-09-22T09:18:51+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-22_fiori-gialli-argentina",
+      "slug": "fiori-gialli-argentina",
+      "pillar": "RADAR",
+      "hook": "In Argentina i fiori gialli finiscono prima di mezzogiorno",
+      "caption": "In Argentina il 21 settembre si regalano fiori gialli, e per i fiorai è una delle giornate di vendita più intense dell'anno: negli anni scorsi alcuni fiori gialli sono finiti prima di mezzogiorno.\n\nLì il 21 settembre è insieme il primo giorno di primavera e il Día del Estudiante. L'usanza dei fiori gialli però non viene dal calendario: viene da Floricienta, la telenovela argentina degli anni 2000, e dalla sua canzone «Flores amarillas», dove la protagonista sognava di riceverli da chi amava. Per anni è rimasta una cosa da fan, poi i social l'hanno resa di massa: oggi si fa anche in Cile. (traduzione nostra)\n\nFonti: La Gaceta, Tucumán (21/09/2026); El Mostrador, Cile (21/09/2026).\n\nManda questo post a chi guardava Floricienta.\n\n#argentina #primavera #telenovela #curiosita #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che in Argentina i fiori gialli finiscono prima di mezzogiorno; le schede seguenti spiegano che il 21 settembre lì è primavera e Día del Estudiante, che l'usanza nasce dalla telenovela Floricienta e dalla canzone «Flores amarillas», e che i social l'hanno diffusa fino al Cile.",
+      "sources": [
+        {
+          "outlet": "La Gaceta (Tucumán)",
+          "date": "2026-09-21",
+          "url": "https://www.lagaceta.com.ar/nota/1154915/sociedad/por-se-regalan-flores-amarillas-21-septiembre-cuanto-cuestan-tucuman.html"
+        },
+        {
+          "outlet": "El Mostrador",
+          "date": "2026-09-21",
+          "url": "https://www.elmostrador.cl/datos-utiles/2026/09/21/flores-amarillas-cada-21-de-septiembre-por-que-se-regalan-y-cual-es-su-origen/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 134,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/fiori-gialli-argentina/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/fiori-gialli-argentina/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-22_xbox-quindici-ore",
+      "slug": "xbox-quindici-ore",
+      "pillar": "IN ARRIVO",
+      "hook": "Da novembre l'abbonamento più caro dà 15 ore al mese",
+      "caption": "Da novembre Microsoft mette un tetto di ore mensili al cloud gaming di Game Pass: 15 ore al mese per Ultimate, l'abbonamento più caro, 10 per Premium, 5 per Essential.\n\nFinito il monte ore il gioco si ferma, e per continuare si comprano ore extra sullo Xbox Store a un prezzo non ancora annunciato. Microsoft ha spiegato che «il costo di fornire il cloud gaming cresce man mano che più persone lo usano e giocano più a lungo» e stima che il limite tocchi circa il 4% degli abbonati; in alcuni mercati, tra cui Australia, Brasile e Germania, chi è già abbonato resta fuori dal limite. Per confronto il concorrente GeForce Now arriva a cento ore. Ultimate costa 22,99 dollari al mese. (traduzione nostra)\n\nFonti: Pure Xbox (03/09/2026); Tom's Hardware (05/09/2026).\n\nManda questo post a chi gioca in streaming.\n\n#videogiochi #xbox #gamepass #cloudgaming #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che da novembre l'abbonamento Game Pass più caro dà 15 ore di cloud gaming al mese; le schede seguenti elencano i limiti dei tre piani, riportano la spiegazione di Microsoft sui costi del cloud, ricordano che GeForce Now ne dà cento e paragonano l'abbonamento a una scheda ricaricabile.",
+      "sources": [
+        {
+          "outlet": "Pure Xbox",
+          "date": "2026-09-03",
+          "url": "https://www.purexbox.com/news/2026/09/xbox-is-officially-putting-time-limits-on-cloud-gaming-for-game-pass-members"
+        },
+        {
+          "outlet": "Tom's Hardware",
+          "date": "2026-09-05",
+          "url": "https://www.tomshardware.com/video-games/cloud-gaming/xbox-game-pass-adds-monthly-time-limits-subscribers-and-non-subcribers-can-buy-more-hours-to-keep-gaming"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 125,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/xbox-quindici-ore/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/xbox-quindici-ore/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-22_oktoberfest-litro",
+      "slug": "oktoberfest-litro",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "Un litro di birra all'Oktoberfest: fino a 15,90 €",
+      "caption": "L'Oktoberfest di Monaco è aperto dal 19 settembre e un litro di birra quest'anno costa tra 14,80 e 15,90 euro.\n\nLa media nelle tende è di circa 15,61 euro, il 2,4% in più dell'anno scorso, e il rincaro ha toccato quasi tutti: una sola osteria, il Wirtshaus im Schichtl, ha lasciato il prezzo dov'era, a 14,90. Il massimo assoluto è nella tenda dei vini, dove il boccale di Weißbier arriva a 18,40 euro. La festa va avanti fino al 4 ottobre. (traduzione nostra)\n\nFonti: ad-hoc-news (18/09/2026); t-online München (12/09/2026).\n\nManda questo post a chi ti ha detto che andava all'Oktoberfest.\n\n#oktoberfest #monaco #germania #birra #succedealtrove",
+      "alt_text": "Card grafica divisa in due con bordo a strisce rosso e blu. Sopra, pannello blu: a Monaco un litro di birra all'Oktoberfest arriva a 15,90 euro, sale ogni anno e ogni anno la festa è piena. Sotto, pannello bianco: in Italia il litro non è una misura, c'è la media e te la fai durare.",
+      "sources": [
+        {
+          "outlet": "ad-hoc-news",
+          "date": "2026-09-18",
+          "url": "https://www.ad-hoc-news.de/wissenschaft/oktoberfest-2026-mass-bier-kostet-14-80-15-90-euro/70121061"
+        },
+        {
+          "outlet": "t-online München",
+          "date": "2026-09-12",
+          "url": "https://muenchen.t-online.de/region/muenchen/id_101418276/bier-auf-dem-oktoberfest-preis-fuer-mass-steigt-in-jedem-zelt-ausser-hier.html"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 122,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-22/oktoberfest-litro/01.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-22/oktoberfest-litro/01.jpg"
+      ],
+      "action": "create_image_post"
+    }
+  ]
+}
