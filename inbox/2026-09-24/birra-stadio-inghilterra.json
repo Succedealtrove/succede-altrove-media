@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-24_birra-stadio-inghilterra",
+ "region": {
+  "flag": "🇬🇧",
+  "label": "INGHILTERRA",
+  "platform": "Bluesky"
+ },
+ "source_short": "fonti: ESPN · SPORTbible (23/09/2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Inghilterra · 23 settembre",
+   "headline": "Allo stadio la birra la compri.\nPoi devi ==girarti di spalle==",
+   "sub": "In Inghilterra funziona così dal 1985. Da ieri a Londra si discute di cambiarla.",
+   "heat": 3,
+   "size": 106,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "LONDRA",
+    "date": "23 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "La regola più strana del calcio inglese",
+   "body": "Dentro lo stadio l'alcol si vende. Ma non lo puoi bere dove vedi il campo: resti nei corridoi dietro le tribune.\nVale per le prime ==cinque divisioni== del calcio maschile.",
+   "source": "fonte: ESPN · SPORTbible, 23/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché esiste",
+   "body": "Nasce da una legge del 1985, pensata per gli stadi di allora, quando l'alcol veniva indicato come una delle cause dei disordini.\nDa allora ==non è mai stata toccata==.",
+   "source": "fonte: SPORTbible, 23/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Il dettaglio che non torna",
+   "body": "La stessa legge non vale per il rugby e per il cricket: lì la birra si beve guardando il campo.\nE da luglio 2026 nemmeno per il ==calcio femminile==, dopo un test durato 18 mesi.",
+   "source": "fonte: ESPN, 23/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Dove si beve, e chi lo decide",
+   "top_label": "IN INGHILTERRA",
+   "top": "Una legge del 1985, uguale per tutti gli stadi",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Un'ordinanza del sindaco, diversa da città a città",
+   "source": "fonti: ESPN · Comune di Napoli"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==allo stadio== ci va",
+   "sub": "Quarantun anni di corridoi. Ora si valuta una prova."
+  }
+ ]
+}
