@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-24_segnale-radio-pianeta",
+ "region": {
+  "flag": "🇿🇦",
+  "label": "SUDAFRICA",
+  "platform": "Hacker News"
+ },
+ "source_short": "fonti: Live Science · ScienceAlert (23/09/2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Sudafrica · 22 settembre",
+   "headline": "Un'antenna nel deserto ha sentito ==un altro pianeta==",
+   "sub": "Non sono alieni. Ma non era mai successo prima.",
+   "heat": 3,
+   "size": 104,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "CARNARVON",
+    "date": "22 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa è stato captato",
+   "body": "Il radiotelescopio MeerKAT, nel deserto sudafricano, ha registrato onde radio in arrivo da Beta Pictoris b: un pianeta che gira intorno a un'altra stella, a ==63 anni luce== da qui.",
+   "source": "fonte: Live Science, 23/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "E no, non sono alieni",
+   "body": "Il segnale nasce dalle aurore. Le particelle sparate dalla stella colpiscono l'alta atmosfera del pianeta e la fanno ==vibrare== in onde radio.\nÈ lo stesso meccanismo delle aurore che ogni tanto si vedono anche da noi.",
+   "source": "fonte: ScienceAlert, 22/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Perché quel pianeta grida così forte",
+   "body": "È un gigante gassoso dieci volte più pesante di Giove, e il suo giorno dura ==otto ore==.\nGirando così in fretta genera un campo magnetico da 1.250 gauss: Giove ne ha 4,3, la Terra 0,5.",
+   "source": "fonte: Live Science, 23/09/2026"
+  },
+  {
+   "type": "split",
+   "title": "Un pianeta che si sente, non che si vede",
+   "top_label": "FINORA",
+   "top": "I pianeti lontani si trovavano dall'ombra che fanno sulla loro stella",
+   "bottom_label": "DA MARTEDÌ",
+   "bottom": "Uno si è fatto sentire da solo, con un segnale tutto suo",
+   "source": "fonte: Live Science, 23/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==guarda il cielo==",
+   "sub": "Lo studio è un preprint: deve ancora passare la revisione dei colleghi."
+  }
+ ]
+}
