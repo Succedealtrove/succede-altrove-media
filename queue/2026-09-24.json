@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-24",
+  "version": "2026-09-24T10:03:18+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-24_accise-germania",
+      "slug": "accise-germania",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "«Tanto le accise non scendono mai». In Germania da ottobre sì",
+      "caption": "Dal 1° ottobre in Germania l'imposta su benzina e diesel scende di circa 14 centesimi al litro: con l'IVA il risparmio arriva a 17 centesimi, cioè fino a 8,50 euro su un pieno da 50 litri.\n\nVale tre mesi, fino al 31 dicembre, ed è la risposta ai rincari del petrolio di quest'estate. La misura è stata approvata a Berlino, ma Bundestag e Bundesrat devono ancora votarla. E non tutto arriverà alla pompa: la volta precedente ne fu girato ai clienti l'80-90%, secondo le stime ufficiali.\n\nIn Italia il movimento è andato nella direzione opposta: dal 1° gennaio 2026 l'accisa del gasolio è salita di circa 4 centesimi e quella della benzina è scesa di altrettanto, così che ora sono entrambe a 0,6729 euro al litro. E no, non stiamo pagando l'imposta del 1935 sull'Abissinia: fu tolta già l'anno dopo, e dal 1995 esiste un'unica aliquota. (traduzione nostra)\n\nFonti: t-online, Germania (23/09/2026); Altroconsumo (2026); Pagella Politica.\n\nManda questo post a chi si lamenta del pieno.\n\n#benzina #germania #accise #prezzi #succedealtrove",
+      "alt_text": "Card grafica con bordo a strisce rosso e blu. Il titolo dice «Tanto le accise non scendono mai». Il pannello blu, IN GERMANIA, spiega che dal 1° ottobre l'accisa cala di 14 centesimi al litro e un pieno da 50 litri costa 8,50 euro in meno; il pannello bianco, IN ITALIA, che da gennaio l'accisa del gasolio è salita di 4 centesimi per allinearla a quella della benzina.",
+      "sources": [
+        {
+          "outlet": "t-online",
+          "date": "2026-09-23",
+          "url": "https://www.t-online.de/mobilitaet/aktuelles/id_101446470/tankrabatt-ab-1-oktober-2026-so-soll-sich-die-steuersenkung-auswirken.html"
+        },
+        {
+          "outlet": "Altroconsumo",
+          "date": "2026-01-01",
+          "url": "https://www.altroconsumo.it/auto-e-moto/automobili/news/accise-benzina-diesel"
+        },
+        {
+          "outlet": "Pagella Politica",
+          "date": "2023-01-01",
+          "url": "https://pagellapolitica.it/fact-checking/no-non-paghiamo-ancora-la-guerra-detiopia-con-la-benzina"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/accise-germania/01.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/accise-germania/01.jpg"
+      ],
+      "action": "create_image_post"
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-24_birra-stadio-inghilterra",
+      "slug": "birra-stadio-inghilterra",
+      "pillar": "RADAR",
+      "hook": "Allo stadio la birra la compri. Poi devi girarti di spalle",
+      "caption": "In Inghilterra dentro gli stadi di calcio la birra si vende, ma non si può bere in vista del campo: chi vuole berla deve restare nei corridoi dietro le tribune.\n\nLa regola nasce da una legge del 1985 e vale solo per le prime cinque divisioni del calcio maschile. Rugby e cricket ne sono esclusi, e da luglio 2026 anche il calcio femminile inglese, dove WSL e WSL2 hanno aperto agli spalti dopo un test di diciotto mesi iniziato a gennaio 2025. Ieri Downing Street l'ha definita superata e ha aperto a una prova anche nel maschile. (traduzione nostra)\n\nIn Italia non esiste una regola unica: il divieto lo decide il sindaco, con ordinanze che cambiano da città a città e da stagione a stagione.\n\nFonti: ESPN (23/09/2026); SPORTbible (23/09/2026).\n\nManda questo post a chi allo stadio ci va.\n\n#calcio #inghilterra #stadio #curiosita #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che allo stadio inglese la birra si compra ma poi bisogna girarsi di spalle; le schede seguenti spiegano che l'alcol non si può bere in vista del campo nelle prime cinque divisioni maschili, che la regola nasce da una legge del 1985, che rugby, cricket e dal 2026 il calcio femminile ne sono esclusi, e confrontano la legge inglese unica con le ordinanze comunali italiane.",
+      "sources": [
+        {
+          "outlet": "ESPN",
+          "date": "2026-09-23",
+          "url": "https://www.espn.com/soccer/story/_/id/50015792/uk-pm-burnham-wants-football-drinking-ban-scrapped"
+        },
+        {
+          "outlet": "SPORTbible",
+          "date": "2026-09-23",
+          "url": "https://www.sportbible.com/football/football-news/andy-burnham-drinking-ban-lifted-football-stadiums-401347-20260923"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 134,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/birra-stadio-inghilterra/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/birra-stadio-inghilterra/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-24_segnale-radio-pianeta",
+      "slug": "segnale-radio-pianeta",
+      "pillar": "RADAR",
+      "hook": "Un'antenna nel deserto ha sentito un altro pianeta",
+      "caption": "Il radiotelescopio MeerKAT, nel deserto sudafricano di Carnarvon, ha captato onde radio che arrivano direttamente da Beta Pictoris b, un pianeta che orbita intorno a un'altra stella a 63 anni luce dalla Terra: è la prima volta che un segnale radio viene attribuito con certezza a un pianeta e non alla sua stella.\n\nNon sono alieni. Il segnale nasce dalle aurore: le particelle cariche sparate dalla stella colpiscono l'alta atmosfera del pianeta, lo stesso meccanismo che accende le aurore che ogni tanto si vedono anche da noi. Beta Pictoris b è un gigante gassoso dieci volte più pesante di Giove e il suo giorno dura otto ore; quella rotazione rapidissima gli dà un campo magnetico di circa 1.250 gauss, contro i 4,3 di Giove e lo 0,5 della Terra. È anche la prima misura diretta del campo magnetico di un pianeta fuori dal sistema solare. Lo studio, guidato da Kevin Ortiz Ceballos dell'Harvard & Smithsonian Center for Astrophysics, è per ora un preprint e deve ancora passare la revisione dei colleghi. (traduzione nostra)\n\nFonti: Live Science (23/09/2026); ScienceAlert (22/09/2026).\n\nManda questo post a chi guarda il cielo.\n\n#spazio #astronomia #pianeti #scienza #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che un'antenna nel deserto ha sentito un altro pianeta e precisa che non sono alieni; le schede seguenti spiegano che il radiotelescopio MeerKAT ha captato onde radio da Beta Pictoris b a 63 anni luce, che il segnale nasce dalle aurore, che il pianeta è dieci volte più pesante di Giove con un giorno di otto ore e un campo magnetico da 1.250 gauss, e che finora i pianeti lontani si trovavano dall'ombra sulla loro stella.",
+      "sources": [
+        {
+          "outlet": "Live Science",
+          "date": "2026-09-23",
+          "url": "https://www.livescience.com/space/exoplanets/astronomers-detected-radio-signals-coming-from-an-exoplanet-for-the-first-time-spoiler-alert-its-not-aliens"
+        },
+        {
+          "outlet": "ScienceAlert",
+          "date": "2026-09-22",
+          "url": "https://www.sciencealert.com/astronomers-detect-radio-signals-coming-directly-from-an-exoplanet-for-the-first-time"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 134,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/01.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/02.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/03.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/04.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/05.jpg",
+        "https://raw.githubusercontent.com/Succedealtrove/succede-altrove-media/main/posts/2026-09-24/segnale-radio-pianeta/06.jpg"
+      ],
+      "fallback_urls": [
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/01.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/02.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/03.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/04.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/05.jpg",
+        "https://cdn.jsdelivr.net/gh/Succedealtrove/succede-altrove-media@main/posts/2026-09-24/segnale-radio-pianeta/06.jpg"
+      ],
+      "action": "create_carousel_post"
+    }
+  ]
+}
