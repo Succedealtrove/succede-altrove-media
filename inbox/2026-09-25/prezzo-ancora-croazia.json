@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-25_prezzo-ancora-croazia",
+ "region": {
+  "flag": "🇭🇷",
+  "label": "CROAZIA",
+  "platform": "tportal"
+ },
+ "source_short": "fonti: tportal, Dnevnik.hr, Croatia Week · 20/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Croazia · 25 settembre",
+   "headline": "In Croazia il caffè avrà ==due prezzi==. Nello stesso menù.",
+   "sub": "Dal 1° ottobre accanto al prezzo di oggi va scritto quello del 10 settembre.",
+   "heat": 4,
+   "size": 106,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "ZAGABRIA",
+    "date": "1 OTT 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa cambia",
+   "body": "Dal 1° ottobre ogni bar, ristorante, parrucchiere o meccanico croato deve esporre **due cifre**: il prezzo di oggi e quello che lo stesso prodotto aveva il 10 settembre 2026.",
+   "source": "tportal, Croazia · 20/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché",
+   "body": "Si chiama ==prezzo àncora==. Serve a far vedere l'aumento invece di lasciarlo dentro un cartellino nuovo. Vale sui menù e sulle lavagne fuori dal locale.",
+   "source": "in vigore dal 01/10/2026 · Croazia"
+  },
+  {
+   "type": "quote",
+   "quote": "Con due prezzi, la prima cosa che porteremo è ==confusione== nei clienti.",
+   "who": "Franz Letica, associazione ristoratori di Zagabria",
+   "note": "Chi non espone le due cifre rischia da 3.000 a 30.000 euro.",
+   "source": "Dnevnik.hr · 20/09/2026 · traduzione nostra"
+  },
+  {
+   "type": "split",
+   "title": "Sapere di quanto è aumentato",
+   "top_label": "IN CROAZIA",
+   "top": "Accanto al prezzo di oggi c'è anche quello del 10 settembre.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Il prezzo di prima si vede solo sugli sconti: il più basso degli ultimi 30 giorni.",
+   "source": "direttiva Omnibus · dlgs 26/2023"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo a chi dice ==«ma prima quanto costava?»==",
+   "sub": "Le regole che arrivano prima altrove, spiegate qui.",
+   "size": 92
+  }
+ ]
+}
