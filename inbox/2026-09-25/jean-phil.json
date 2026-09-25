@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-25_jean-phil",
+ "region": {
+  "flag": "🇫🇷",
+  "label": "FRANCIA",
+  "platform": "TikTok"
+ },
+ "source_short": "fonti: Know Your Meme; Yahoo Entertainment · settembre 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Spiegone · Francia · 25 settembre",
+   "headline": "Tira pugni in salotto. Nessuno sa se ==esiste==.",
+   "sub": "Cinque milioni e mezzo di visualizzazioni in tre giorni, e una domanda sola.",
+   "heat": 5,
+   "size": 112,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "FRANCIA",
+    "date": "19 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa è successo",
+   "body": "Il 17 settembre un profilo francese pubblica un video: un uomo biondo con i baffi a manubrio che tira pugni a vuoto in un appartamento. Due giorni dopo il secondo video fa **5,6 milioni** di visualizzazioni.",
+   "source": "Know Your Meme · settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché se ne parla",
+   "body": "Si fa chiamare ==Jean Philanthrope==, per tutti Jean Phil. In tre giorni 145.000 follower su Instagram. E nessuno riesce a dire se sia una persona o un personaggio generato con l'AI.",
+   "source": "Yahoo Entertainment · settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Il dettaglio",
+   "body": "Insieme ai profili è comparso un **token cripto** con il suo nome. Chi lo gestisce non è noto. Nessuno ha dimostrato che sia AI, e nessuno il contrario.",
+   "source": "Know Your Meme · settembre 2026"
+  },
+  {
+   "type": "split",
+   "title": "Lo stesso video, due settimane dopo",
+   "top_label": "IN FRANCIA",
+   "top": "Se ne parla da una settimana e ancora nessuno sa chi sia.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Arriverà nei Reels tra qualche giorno. Senza la domanda.",
+   "source": "Know Your Meme · settembre 2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo a chi continua a ==vederlo ovunque==",
+   "sub": "Il mondo è già virale. Tu lo scopri qui.",
+   "size": 96
+  }
+ ]
+}
