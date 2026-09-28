@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-28",
+  "version": "2026-09-28T09:38:51+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-28_bici-cinque-metri-spagna",
+      "slug": "bici-cinque-metri-spagna",
+      "pillar": "RADAR",
+      "hook": "Da giovedì la bici sta in mezzo alla corsia. E ha ragione.",
+      "caption": "Dal 1° ottobre in Spagna, in città, chi guida dietro una bicicletta deve tenere cinque metri di distanza, e la bici può prendersi il centro della corsia.\n\nLo stabilisce il Real Decreto 518/2026, nel BOE dal 26 giugno, che riscrive il Reglamento General de Circulación intorno agli utenti vulnerabili: pedoni, ciclisti, monopattini. Fuori città il sorpasso di una bici si fa almeno 20 km/h sotto il limite, e sulle strade a più corsie cambiando corsia e lasciando 1,5 metri di lato. Le multe arrivano a 200 euro. Cambia anche il resto: casco obbligatorio per i ciclisti fuori dai centri abitati, monopattini solo dai 15 anni, guanti e scarpe chiuse per i motociclisti, e nelle vie a senso unico con limite 30 i comuni possono aprire il contromano alle bici, dove lo segnalano con un cartello.\n\n«Non ti azzardare a suonargli il clacson, perché sta facendo la cosa giusta», dice l'istruttore di scuola guida Carlos Almagro, che si aspetta di vedere le bici al centro della corsia come una scena normale. (traduzione nostra)\n\nFonti: DGT (23/06/2026); Infobae (22 e 26/09/2026); Xataka (27/09/2026).\n\nManda questo post a chi suona al ciclista che sta in mezzo alla strada.\n\n#spagna #bici #codicedellastrada #ciclisti #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che da giovedì la bici sta in mezzo alla corsia e ha ragione; le schede seguenti spiegano che dal 1° ottobre in Spagna chi segue una bici in città deve restare cinque metri indietro con multe fino a 200 euro, che il Real Decreto 518/2026 riscrive il codice della strada intorno a pedoni, ciclisti e monopattini, riportano la frase di un istruttore di scuola guida che invita a non suonare il clacson, e confrontano la regola spagnola con l'Italia, dove la bici sta già in mezzo alla corsia ma nessuno l'ha scritto.",
+      "sources": [
+        {
+          "outlet": "DGT",
+          "date": "2026-06-23",
+          "url": "https://www.dgt.es/comunicacion/notas-de-prensa/20260623-RD-usuarios-vulnerables/"
+        },
+        {
+          "outlet": "Infobae",
+          "date": "2026-09-26",
+          "url": "https://www.infobae.com/espana/2026/09/26/estos-son-los-cambios-que-introduce-la-dgt-en-su-normativa-desde-el-1-de-octubre-asi-afectara-a-ciclistas-motoristas-patinetes-y-taxistas/"
+        },
+        {
+          "outlet": "Infobae",
+          "date": "2026-09-22",
+          "url": "https://www.infobae.com/espana/2026/09/22/carlos-almagro-profesor-de-autoescuela-a-partir-del-1-de-octubre-va-a-ser-muy-habitual-ver-a-las-bicicletas-ir-por-el-centro-del-carril/"
+        },
+        {
+          "outlet": "Xataka",
+          "date": "2026-09-27",
+          "url": "https://www.xataka.com/movilidad/gobierno-cambia-normas-a-partir-1-octubre-bicicletas-podran-circular-direccion-contraria-calles-solo-sentido-limitadas-a-30-km-h"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-28_scale-mobili-los-angeles",
+      "slug": "scale-mobili-los-angeles",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "Uno ha misurato le scale mobili di 42 città",
+      "caption": "Le scale mobili della metropolitana di Los Angeles vanno a 0,46 metri al secondo, 90 piedi al minuto: tra le più lente del mondo.\n\nLo ha calcolato Miles Morton, che il 23 settembre ha messo in fila le velocità di 42 città e le regole di 139 città in 58 paesi. Hong Kong e Londra viaggiano a 0,75 m/s, Parigi a 0,65, Tokyo a 0,51, New York a 0,46 come Los Angeles. Il punto non è che LA sfori un limite: è che resta sotto il massimo consentito in ognuna delle 139 città della lista. Perfino l'aeroporto della stessa città, LAX, le tiene più veloci, a 100 piedi al minuto, che negli Stati Uniti è anche la velocità di Washington, Philadelphia e San Francisco.\n\nFonti: basin.la, Miles Morton (23/09/2026); Washingtonian, Walker Whalen (31/08/2026).\n\nManda questo post a chi ti aspetta in cima alla scala mobile.\n\n#losangeles #metro #scalemobili #trasporti #succedealtrove",
+      "alt_text": "Card grafica con bordo a strisce rosso e blu. Il titolo dice che qualcuno ha misurato le scale mobili di 42 città. Il pannello blu, A LOS ANGELES, riporta 0,46 metri al secondo, cioè 90 piedi al minuto, contro gli 0,75 di Hong Kong e Londra; il pannello bianco, IN ITALIA, scherza dicendo che da noi la scala mobile non è lenta, è fuori servizio.",
+      "sources": [
+        {
+          "outlet": "basin.la",
+          "date": "2026-09-23",
+          "url": "https://basin.la/articles/ninety-feet-a-minute.html"
+        },
+        {
+          "outlet": "Washingtonian",
+          "date": "2026-08-31",
+          "url": "https://washingtonian.com/2026/08/31/are-metros-escalators-unusually-slow/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 133
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-28_asml-zero-europa",
+      "slug": "asml-zero-europa",
+      "pillar": "SPIEGONE",
+      "hook": "In Europa ha venduto zero. E costruisce le macchine dei chip.",
+      "caption": "Nel primo semestre 2026 l'Europa vale lo 0% dei ricavi di ASML, l'azienda olandese che costruisce le macchine con cui si stampano i circuiti dei chip.\n\nNon è un crollo improvviso: era l'1% nel 2025, il 5% nel 2024, il 4% nel 2023, il 2% nel 2022. Quelle macchine le comprano le fabbriche di chip, e le grandi stanno a Taiwan, in Corea, in Cina e negli Stati Uniti: in Europa di clienti così ce ne sono pochissimi.\n\n«Non vendiamo assolutamente niente in Europa», ha detto Frank Heemskerk, vicepresidente per gli affari pubblici di ASML, durante un incontro a De Balie, ad Amsterdam. La richiesta dell'azienda all'Unione Europea non è un altro sussidio alle fabbriche: è che qualcuno garantisca la domanda, cioè che i grandi compratori europei di chip comincino a comprarli in Europa. (traduzione nostra)\n\nFonti: Tom's Hardware, Anton Shilov (24/09/2026); Data Center Dynamics, Charlotte Trueman (25/09/2026).\n\nManda questo post a chi dice che sui chip l'Europa è rimasta indietro.\n\n#chip #asml #paesibassi #europa #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che in Europa ha venduto zero e che costruisce le macchine dei chip; le schede seguenti riportano che nel primo semestre 2026 l'Europa vale lo 0% dei ricavi di ASML contro il 5% del 2024, spiegano che quelle macchine servono alle fabbriche di chip che stanno a Taiwan, in Corea, in Cina e negli Stati Uniti, riportano la frase del vicepresidente Frank Heemskerk «non vendiamo assolutamente niente in Europa», e chiudono osservando che il telefono ce l'abbiamo tutti ma la fabbrica che fa il suo chip no.",
+      "sources": [
+        {
+          "outlet": "Tom's Hardware",
+          "date": "2026-09-24",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand"
+        },
+        {
+          "outlet": "Data Center Dynamics",
+          "date": "2026-09-25",
+          "url": "https://www.datacenterdynamics.com/en/news/asmls-revenue-share-drops-to-zero-percent-in-europe-says-its-sold-absolutely-nothing-in-the-region-this-year/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 132
+    }
+  ]
+}
