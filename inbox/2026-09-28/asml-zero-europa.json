@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-28_asml-zero-europa",
+ "region": {
+  "flag": "🇳🇱",
+  "label": "PAESI BASSI",
+  "platform": "De Balie"
+ },
+ "source_short": "fonti: Tom's Hardware; Data Center Dynamics",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Spiegone · Paesi Bassi · 24 settembre",
+   "headline": "In Europa ha venduto ==zero==. E costruisce le macchine dei chip.",
+   "sub": "Paesi Bassi, 24 settembre: ASML mette in fila i suoi numeri europei.",
+   "heat": 3,
+   "size": 102,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "AMSTERDAM",
+    "date": "24 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Non è un modo di dire",
+   "body": "Nel primo semestre 2026 l'Europa vale lo ==0%== dei ricavi di ASML.\nNel 2025 era l'1%, nel 2024 il 5%, nel 2023 il 4%, nel 2022 il 2%.",
+   "source": "Tom's Hardware 24/09/2026 · Data Center Dynamics 25/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Quelle macchine servono a chi i chip li fa",
+   "body": "ASML costruisce i macchinari con cui si stampano i circuiti sul silicio. Li comprano le fabbriche di chip.\nLe grandi stanno a Taiwan, in Corea, in Cina e negli Stati Uniti. In Europa di clienti così ce ne sono pochissimi.",
+   "source": "Tom's Hardware 24/09/2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Non vendiamo assolutamente niente in Europa.",
+   "who": "Frank Heemskerk, vicepresidente ASML",
+   "note": "Lo ha detto a De Balie, ad Amsterdam. ASML non chiede altri sussidi alle fabbriche: chiede che qualcuno, in Europa, i chip europei li compri.",
+   "source": "Tom's Hardware 24/09/2026 · (traduzione nostra)"
+  },
+  {
+   "type": "split",
+   "title": "Dove finiscono quelle macchine",
+   "top_label": "NEL MONDO",
+   "top": "Taiwan, Corea, Cina, Stati Uniti: le fabbriche che le comprano stanno lì.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Il telefono ce l'abbiamo tutti. La fabbrica che fa il suo chip, no.",
+   "source": "Tom's Hardware 24/09/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi parla sempre di ==chip europei==",
+   "sub": "Adesso quella frase ha un numero: zero per cento.",
+   "size": 88
+  }
+ ]
+}
