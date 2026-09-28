@@ -1,0 +1,20 @@
+{
+ "post_id": "2026-09-28_scale-mobili-los-angeles",
+ "region": {
+  "flag": "🇺🇸",
+  "label": "STATI UNITI",
+  "platform": "basin.la"
+ },
+ "source_short": "fonti: basin.la; Washingtonian",
+ "slides": [
+  {
+   "type": "split",
+   "title": "Uno ha misurato le scale mobili di ==42 città==",
+   "top_label": "A LOS ANGELES",
+   "top": "0,46 m/s: 90 piedi al minuto. A Hong Kong e Londra, 0,75.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "La scala mobile non è lenta. È fuori servizio.",
+   "source": "basin.la, Miles Morton 23/09/2026 · Washingtonian 31/08/2026"
+  }
+ ]
+}
