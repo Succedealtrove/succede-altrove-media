@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-28_bici-cinque-metri-spagna",
+ "region": {
+  "flag": "🇪🇸",
+  "label": "SPAGNA",
+  "platform": "DGT"
+ },
+ "source_short": "fonti: DGT; Infobae; Xataka",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Spagna · 1 ottobre",
+   "headline": "Da giovedì la bici sta ==in mezzo alla corsia==. E ha ragione.",
+   "sub": "In città chi la segue in auto deve restare cinque metri indietro.",
+   "heat": 4,
+   "size": 104,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "MADRID",
+    "date": "1 OTT 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cinque metri, per legge",
+   "body": "Dal 1° ottobre, in città, la bici può prendersi il centro della corsia.\nChi la segue nella stessa corsia resta ==cinque metri== indietro. Sotto, è multa fino a 200 euro.",
+   "source": "DGT · Real Decreto 518/2026 · Infobae 26/09/2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Il codice è stato riscritto al contrario",
+   "body": "Il Real Decreto 518/2026, nel BOE dal 26 giugno, rimette il regolamento spagnolo intorno a chi non ha la carrozzeria: pedoni, ciclisti, monopattini.\nFuori città il sorpasso si fa almeno 20 km/h sotto il limite.",
+   "source": "DGT · nota stampa 23/06/2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Non ti azzardare a suonargli il clacson: sta facendo la cosa giusta.",
+   "who": "Carlos Almagro, istruttore di scuola guida",
+   "note": "Dice che da giovedì vedere le bici al centro della corsia sarà normalissimo.",
+   "source": "Infobae 22/09/2026 · (traduzione nostra)"
+  },
+  {
+   "type": "split",
+   "title": "Chi guida dietro una bici",
+   "top_label": "IN SPAGNA",
+   "top": "Cinque metri di distanza. Il clacson è lo sbaglio, non la bici.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "In mezzo alla corsia la bici ci sta già. Solo che nessuno l'ha scritto.",
+   "source": "DGT · in vigore 01/10/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==suona al ciclista==",
+   "sub": "E a chi pedala e si è sempre tenuto sul bordo.",
+   "size": 92
+  }
+ ]
+}
