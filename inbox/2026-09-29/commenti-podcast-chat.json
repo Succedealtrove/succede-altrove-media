@@ -1,0 +1,58 @@
+{
+ "post_id": "2026-09-29_commenti-podcast-chat",
+ "region": {
+  "flag": "🇺🇸",
+  "label": "STATI UNITI",
+  "platform": "Spotify"
+ },
+ "source_short": "fonti: TechCrunch · The Verge · 25/09/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Stati Uniti · 29 settembre",
+   "headline": "Pensavano fossero ==bot==. Erano ragazzini di seconda media.",
+   "sub": "Hanno trasformato i commenti di un podcast della radio pubblica nella loro chat di gruppo.",
+   "heat": 3,
+   "size": 104,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "WASHINGTON",
+    "date": "25 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "I commenti strani",
+   "body": "Sotto **Wild Card**, podcast di NPR, su Spotify arrivano commenti pieni di sigle e emoji che in redazione nessuno capisce.\nSembra un attacco di bot.",
+   "source": "fonte: TechCrunch · 25 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Non erano bot",
+   "body": "Hannah Chin, producer della stessa generazione, ci mette poco: erano ==ragazzini troppo piccoli per i social==, che si erano fatti una chat di gruppo nei commenti.",
+   "source": "fonte: TechCrunch · 25 settembre 2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Credo che abbiamo solo cercato podcast che non avessero tanti commenti.",
+   "who": "uno dei ragazzi, intervistato da Ira Glass",
+   "note": "Glass conduce un programma radiofonico pubblico. Ha risposto che sentirlo fa un po' male. (traduzione nostra)",
+   "source": "fonte: TechCrunch · 25 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Perché proprio lì",
+   "body": "Perché era ==il posto che nessuno guardava==. Non serve un'app nuova: basta uno spazio vuoto.\nEra già successo sotto TED Radio Hour.",
+   "source": "fonte: TechCrunch · 25 settembre 2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ha un figlio ==senza social==.",
+   "sub": "Una chat la trova comunque.",
+   "size": 96
+  }
+ ]
+}
