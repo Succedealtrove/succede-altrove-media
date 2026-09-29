@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-29",
+  "version": "2026-09-29T10:35:52+02:00",
+  "items": [
+    {
+      "slot": "19:30",
+      "status": "ready",
+      "post_id": "2026-09-29_commenti-podcast-chat",
+      "slug": "commenti-podcast-chat",
+      "pillar": "RADAR",
+      "hook": "Pensavano fossero bot. Erano ragazzini di seconda media.",
+      "caption": "I redattori di un podcast della radio pubblica americana hanno pensato a un attacco di bot. Erano ragazzini di seconda media.\n\nSotto Wild Card, podcast di NPR, su Spotify erano comparsi commenti pieni di sigle e di emoji che in redazione nessuno riusciva a decifrare. A capire cosa stesse succedendo è stata Hannah Chin, una producer della stessa generazione: non erano bot, erano ragazzi troppo piccoli per avere i social che si erano costruiti una chat di gruppo nella sezione commenti. Non era la prima volta: era già successo sotto TED Radio Hour.\n\nQuando Ira Glass ha chiesto a uno di loro perché proprio un podcast di NPR, la risposta è stata: «Credo che abbiamo solo cercato podcast che non avessero tanti commenti». Glass, che di mestiere conduce un programma radiofonico pubblico, ha risposto che sentirlo fa un po' male. (traduzione nostra)\n\nFonti: TechCrunch (25/09/2026); The Verge (25/09/2026).\n\nManda questo post a chi ha un figlio senza social.\n\n#adolescenti #spotify #podcast #genitori #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che pensavano fossero bot ed erano ragazzini di seconda media, che hanno trasformato i commenti di un podcast della radio pubblica nella loro chat di gruppo. Le schede seguenti raccontano che sotto Wild Card, podcast di NPR su Spotify, arrivavano commenti pieni di sigle e emoji che sembravano un attacco di bot, che la producer Hannah Chin ha capito che erano ragazzini troppo piccoli per i social, riportano la frase di uno di loro che dice di aver cercato podcast senza tanti commenti, e spiegano che hanno scelto quel posto perché nessuno lo guardava, come era già successo sotto TED Radio Hour.",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "date": "2026-09-25",
+          "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/"
+        },
+        {
+          "outlet": "The Verge",
+          "date": "2026-09-25",
+          "url": "https://www.theverge.com/news/799082/npr-podcast-comment-section-group-chat-spotify"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 135
+    },
+    {
+      "slot": "12:45",
+      "status": "ready",
+      "post_id": "2026-09-29_madrid-duecentocinque-posti",
+      "slug": "madrid-duecentocinque-posti",
+      "pillar": "ITALIA VS MONDO",
+      "hook": "Da stamattina a Madrid prenoti il bunker. Gratis.",
+      "caption": "Da stamattina alle 10 si prenota Madrid Otra Mirada: dal 12 al 18 ottobre la città apre 205 luoghi normalmente chiusi, con 249 attività, tutte gratuite.\n\nÈ la quattordicesima edizione ed è la più grande di sempre. Tra i posti che si visitano ci sono il Banco de España, il bunker di El Capricho, il Faro de Moncloa, il Frontón Beti Jai e il Palacio de Gaviria; 22 spazi aprono per la prima volta. Si prenota su mom.reservaspatrimonio.es, massimo 14 attività a testa e due al giorno, e 25 attività si fanno senza prenotare.\n\nIn Italia la stessa cosa esiste e cade due giorni prima: le Giornate FAI d'Autunno sono sabato 10 e domenica 11 ottobre, in centinaia di luoghi, a contributo libero. La differenza non è la bellezza dei posti. È che lì hai una settimana e qui un fine settimana.\n\nFonti: Ayuntamiento de Madrid (28/09/2026); FAI - Fondo per l'Ambiente Italiano.\n\nManda questo post a chi dice che non c'è mai niente da fare.\n\n#madrid #spagna #giornatefai #viaggi #succedealtrove",
+      "alt_text": "Card grafica con bordo a strisce rosso e blu. Il titolo dice che da stamattina a Madrid si prenota il bunker, gratis. Il pannello blu in alto, intitolato A MADRID, spiega che dal 12 al 18 ottobre aprono 205 posti chiusi al pubblico, bunker compreso, gratis. Il pannello bianco in basso, intitolato IN ITALIA, ricorda che le Giornate FAI sono il 10 e l'11 ottobre, a contributo libero: due giorni, non sette.",
+      "sources": [
+        {
+          "outlet": "Ayuntamiento de Madrid",
+          "date": "2026-09-28",
+          "url": "https://diario.madrid.es/blog/2026/09/28/madrid-otra-mirada-2026-abre-las-puertas-de-205-espacios-emblematicos-de-la-ciudad-con-249-actividades-gratuitas/"
+        },
+        {
+          "outlet": "Gacetín Madrid",
+          "date": "2026-09-28",
+          "url": "https://gacetinmadrid.com/2026/09/28/abren-martes-inscripciones-madrid-otra-mirada-visitas-gratuitas-205-lugares/"
+        },
+        {
+          "outlet": "FAI - Fondo per l'Ambiente Italiano",
+          "date": "2026-09-29",
+          "url": "https://fondoambiente.it/il-fai/grandi-campagne/giornate-fai-autunno/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 134
+    },
+    {
+      "slot": "21:00",
+      "status": "ready",
+      "post_id": "2026-09-29_uva-california-per-terra",
+      "slug": "uva-california-per-terra",
+      "pillar": "RADAR",
+      "hook": "Un raccolto perfetto. E lo lasciano cadere per terra.",
+      "caption": "In California quest'anno circa metà dell'uva da vino è arrivata alla vendemmia senza un compratore, e chi non la vende la lascia cadere per terra.\n\nNegli anni normali il 70-80% del raccolto ha un contratto prima della vendemmia. Il motivo del crollo è semplice: negli Stati Uniti si beve meno vino. Le casse vendute sono passate da 427 milioni nel 2020 a 329 milioni nel 2025, la spesa da 94 a 74 miliardi di dollari, e nel mondo i consumi sono calati del 14% dal 2018. Risultato: circa un quarto dei vigneti californiani sta uscendo dalla produzione. Bill Berryhill, viticoltore di terza generazione, dei suoi 500 acri ne sta espiantando 50.\n\n«Fa star male. Coltivi un raccolto bellissimo e poi lo lasci cadere per terra», dice. (traduzione nostra)\n\nIn Italia il problema è lo stesso, ma si vede da un'altra parte: al 31 luglio 2026 c'erano 45,6 milioni di ettolitri di vino invenduti in cantina, l'8,2% in più dell'anno prima. Una vendemmia intera che nessuno ha bevuto.\n\nFonti: AP via KVPR (22/09/2026); Open (26/08/2026).\n\nManda questo post a chi dice che il vino non si butta mai.\n\n#vino #california #vendemmia #agricoltura #succedealtrove",
+      "alt_text": "Carosello grafico con bordo a strisce rosso e blu. La copertina blu dice che un raccolto perfetto viene lasciato cadere per terra, perché in California metà dell'uva da vino è arrivata alla vendemmia senza compratore. Le schede seguenti spiegano che negli anni normali il 70-80% del raccolto ha un contratto, che negli Stati Uniti le casse di vino vendute sono scese da 427 milioni nel 2020 a 329 milioni nel 2025, riportano la frase del viticoltore Bill Berryhill che dice che fa star male coltivare un raccolto bellissimo e poi lasciarlo cadere per terra, e confrontano la California, dove un quarto dei vigneti esce dalla produzione, con l'Italia, dove ci sono 45,6 milioni di ettolitri fermi in cantina.",
+      "sources": [
+        {
+          "outlet": "AP via KVPR",
+          "date": "2026-09-22",
+          "url": "https://www.kvpr.org/business-economy/2026-09-22/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops"
+        },
+        {
+          "outlet": "KPBS",
+          "date": "2026-09-22",
+          "url": "https://www.kpbs.org/news/environment/2026/09/22/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops"
+        },
+        {
+          "outlet": "Open",
+          "date": "2026-08-26",
+          "url": "https://www.open.online/2026/08/26/vendemmia-2026-scorte-record-prezzi-in-calo/"
+        }
+      ],
+      "qa_errors": [],
+      "qa_warnings": [],
+      "score": 124
+    }
+  ]
+}
