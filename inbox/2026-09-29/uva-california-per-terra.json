@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-29_uva-california-per-terra",
+ "region": {
+  "flag": "🇺🇸",
+  "label": "STATI UNITI",
+  "platform": "HN"
+ },
+ "source_short": "fonti: AP 22/09/2026 · Open 26/08/2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Stati Uniti · 29 settembre",
+   "headline": "Un raccolto perfetto. E lo lasciano ==cadere per terra==.",
+   "sub": "In California metà dell'uva da vino è arrivata alla vendemmia senza un compratore.",
+   "heat": 4,
+   "size": 106,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "CALIFORNIA",
+    "date": "29 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "L'uva che nessuno compra",
+   "body": "Quest'anno circa **metà** del raccolto di uva da vino californiano è arrivato alla vendemmia senza contratto.\nNegli anni normali ce l'ha il 70-80%.",
+   "source": "fonte: AP · 22 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché è successo",
+   "body": "Negli Stati Uniti si beve meno vino. Le casse vendute sono passate da 427 milioni nel 2020 a ==329 milioni== nel 2025.\nLa spesa: da 94 a 74 miliardi di dollari.",
+   "source": "fonte: AP · 22 settembre 2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Fa star male. Coltivi un raccolto bellissimo e poi lo lasci cadere per terra.",
+   "who": "Bill Berryhill, viticoltore di terza generazione",
+   "note": "Dei suoi 500 acri ne sta espiantando 50. (traduzione nostra)",
+   "source": "fonte: AP · 22 settembre 2026"
+  },
+  {
+   "type": "split",
+   "title": "Stesso problema, due modi di nasconderlo",
+   "top_label": "IN CALIFORNIA",
+   "top": "Strappano le viti: un quarto dei vigneti esce dalla produzione.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "45,6 milioni di ettolitri fermi in cantina. Una vendemmia intera.",
+   "source": "fonti: AP 22/09 · Open 26/08/2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi dice che ==il vino non si butta mai==.",
+   "sub": "Quest'anno, in California, un po' sì.",
+   "size": 92
+  }
+ ]
+}
