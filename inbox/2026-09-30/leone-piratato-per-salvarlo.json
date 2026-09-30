@@ -1,0 +1,59 @@
+{
+ "post_id": "2026-09-30_leone-piratato-per-salvarlo",
+ "region": {
+  "flag": "🇨🇦",
+  "label": "CANADA",
+  "platform": "Hacker News"
+ },
+ "source_short": "fonti: MUBI Notebook (28/09/2026) · Arrow Films (durate)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Radar · Canada · 28 settembre",
+   "headline": "Hanno piratato Sergio Leone ==per salvarlo==. Tredici anni dopo, assunti.",
+   "sub": "Vancouver, 2011: due coinquilini si copiano Il buono, il brutto, il cattivo perché la versione in vendita non era più quella del cinema.",
+   "heat": 4,
+   "size": 100,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "VANCOUVER",
+    "date": "28 SET 2026"
+   }
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa è successo",
+   "body": "Nel 2011 Devan Scott e la sua coinquilina Willa Ross hanno iniziato a copiare, senza permesso, ogni versione che trovavano del film di Leone.\n\nVolevano rimontare quella uscita al cinema. Ci hanno messo ==tredici anni==.",
+   "source": "fonte: MUBI Notebook · 28 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Perché lo hanno fatto",
+   "body": "Negli anni Duemila l'edizione ufficiale era stata allungata: da 162 minuti a ==179==, con scene rimesse dentro, dialoghi ridoppiati e suoni rifatti.\n\nChi cercava la versione vista al cinema, in negozio non la trovava.",
+   "source": "fonti: Arrow Films (durate) · MUBI Notebook"
+  },
+  {
+   "type": "text",
+   "num": "03",
+   "title": "Come è finita",
+   "body": "Nel 2019 proiettano la loro copia non autorizzata in un cinema d'essai. Lì li notano altri due che stavano facendo la stessa cosa.\n\nNel ==maggio 2024== una casa di distribuzione inglese li assume come consulenti per il cofanetto della trilogia.",
+   "source": "fonte: MUBI Notebook · 28 settembre 2026"
+  },
+  {
+   "type": "split",
+   "title": "Il western, però, ==è nostro==.",
+   "top_label": "IN CANADA",
+   "top": "Tredici anni di lavoro clandestino per riavere il film del 1966.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Il film lo abbiamo girato noi. A rimetterlo a posto hanno pensato loro.",
+   "source": "fonte: MUBI Notebook · 28 settembre 2026"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==sa a memoria== il finale del film.",
+   "sub": "Il film è del 1966. La battaglia per la versione giusta è del 2026."
+  }
+ ]
+}
