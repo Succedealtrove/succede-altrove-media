@@ -1,0 +1,60 @@
+{
+ "post_id": "2026-09-30_aerocano-espresso-montato",
+ "region": {
+  "flag": "🇺🇸",
+  "label": "STATI UNITI",
+  "platform": "Google Trends"
+ },
+ "source_short": "fonti: Starbucks Stories (28/09/2026) · Nation's Restaurant News (28/09/2026)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "In arrivo · Stati Uniti · 29 settembre",
+   "headline": "Montano l'espresso ==come il latte==. Nato in Corea, da ieri in America.",
+   "sub": "Si chiama Aerocano: tre caffè, qualche secondo di vapore, niente latte.",
+   "heat": 4,
+   "size": 104,
+   "postmark": {
+    "top": "POSTA DA",
+    "place": "SEATTLE",
+    "date": "29 SET 2026"
+   },
+   "stamp": "PREVISIONE"
+  },
+  {
+   "type": "text",
+   "num": "01",
+   "title": "Cosa è successo",
+   "body": "Ieri, giorno nazionale del caffè negli Stati Uniti, Starbucks ha messo in menù l'==Aerocano== in tutti i locali del Nord America.\n\nIl barista prende tre espressi, li monta col vapore in una brocca e li versa sul ghiaccio. Si forma una schiuma che scende nel bicchiere mentre si assesta.",
+   "source": "fonte: Nation's Restaurant News · 28 settembre 2026"
+  },
+  {
+   "type": "text",
+   "num": "02",
+   "title": "Non è un'idea americana",
+   "body": "L'Aerocano è nato in ==Corea del Sud== all'inizio del 2026, dove un caffè si guarda prima di berlo.\n\nUna dirigente dell'area Asia-Pacifico l'ha visto studiando i trend del mercato. Poi mesi di prove sui secondi di vapore.",
+   "source": "fonte: Starbucks Stories · 28 settembre 2026"
+  },
+  {
+   "type": "quote",
+   "quote": "Se lo sanno fare solo uno o due baristi, non è abbastanza buono.",
+   "who": "Vivian Luk, ricerca e sviluppo Starbucks",
+   "note": "È la regola che decide se un caffè nato a Seul può finire nel menù di mezzo mondo. (traduzione nostra)",
+   "source": "fonte: Starbucks Stories · 28 settembre 2026"
+  },
+  {
+   "type": "split",
+   "title": "Dalla Corea all'America: ==nove mesi==.",
+   "top_label": "IN AMERICA",
+   "top": "Un caffè allungato, montato ad aria, servito sul ghiaccio. Novità in menù.",
+   "bottom_label": "IN ITALIA",
+   "bottom": "Un espresso al banco, bevuto in piedi, senza nemmeno guardarlo.",
+   "source": "fonti: Starbucks Stories · Nation's Restaurant News"
+  },
+  {
+   "type": "cta",
+   "headline": "Manda questo post a chi ==ordina sempre== lo stesso caffè.",
+   "sub": "Nato a Seul, passato per l'America. Il prossimo passo lo sai."
+  }
+ ]
+}
